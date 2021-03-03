@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 about_me <- list(
   name = "Sanderson",
   first_name = "Steven",
@@ -24,3 +25,4 @@ about_me <- list(
   my_r_packages = c("healthyverse", "healthyR", "healthyR.data","healthyR.ts"),
   blog = "https://www.spsanderson.com/"
 )
+```
