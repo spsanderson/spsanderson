@@ -29,6 +29,9 @@ about_me <- list(
 You can find all of my packages either on my site at https://www.spsanderson.com/software or you can check them out right here on GitHub.
 
 [healthyverse](https://github.com/spsanderson/healthyverse)
+
 [healthyR](https://github.com/spsanderson/healthyR)
+
 [healthyR.ts](https://github.com/spsanderson/healthyR.ts)
+
 [healthyR.data](https://github.com/spsanderson/healthyR.data)
