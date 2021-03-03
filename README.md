@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+about_me <- list(
+  name = "Sanderson",
+  first_name = "Steven",
+  occupation = "Data Scientist/IT Manager",
+  employer = "Long Island Community Hospital",
+  favorite_programming_language = "R",
+  my_r_packages = c("healthyverse", "healthyR", "healthyR.data","healthyR.ts"),
+  blog = "https://www.spsanderson.com/"
+)
