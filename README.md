@@ -23,6 +23,12 @@ about_me <- list(
   employer = "Long Island Community Hospital",
   favorite_programming_language = "R",
   my_r_packages = c("healthyverse", "healthyR", "healthyR.data","healthyR.ts"),
-  blog = "https://www.spsanderson.com/"
+  website = "https://www.spsanderson.com/"
 )
 ```
+You can find all of my packages either on my site at https://www.spsanderson.com/software or you can check them out right here on GitHub.
+
+[healthyverse](https://github.com/spsanderson/healthyverse)
+[healthyR](https://github.com/spsanderson/healthyR)
+[healthyR.ts](https://github.com/spsanderson/healthyR.ts)
+[healthyR.data](https://github.com/spsanderson/healthyR.data)
