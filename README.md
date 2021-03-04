@@ -27,3 +27,5 @@ about_me <- list(
 )
 ```
 Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.com)
+
+For all of my packages [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
