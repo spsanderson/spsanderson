@@ -32,4 +32,11 @@ I can be reached at spsanderson at gmail.com or via my [LinkedIn page](https://w
 
 Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.com)
 
-
+{healthyR}
+<!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR)](https://cran.r-project.org/package=healthyR)
+![](https://cranlogs.r-pkg.org/badges/healthyR)
+![](https://cranlogs.r-pkg.org/badges/grand-total/healthyR)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+<!-- badges: end -->
