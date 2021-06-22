@@ -62,8 +62,8 @@ Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.c
 {healthyverse}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyverse)](https://cran.r-project.org/package=healthyverse)
-![](http://cranlogs.r-pkg.org/badges/healthyverse?color=brightgreen)
-![](http://cranlogs.r-pkg.org/badges/grand-total/healthyverse?color=brightgreen)
+![](http://cranlogs.r-pkg.org/badges/healthyverse)
+![](http://cranlogs.r-pkg.org/badges/grand-total/healthyverse)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
