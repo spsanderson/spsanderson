@@ -53,8 +53,8 @@ Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.c
 {healthyR.data}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR.data)](https://cran.r-project.org/package=healthyR.data)
-![](http://cranlogs.r-pkg.org/badges/healthyR.data?color=brightgreen)
-![](http://cranlogs.r-pkg.org/badges/grand-total/healthyR.data?color=brightgreen)
+![](http://cranlogs.r-pkg.org/badges/healthyR.data)
+![](http://cranlogs.r-pkg.org/badges/grand-total/healthyR.data)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
