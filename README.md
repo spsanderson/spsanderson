@@ -26,7 +26,7 @@ about_me <- list(
   website       = "https://www.spsanderson.com/"
 )
 ```
-I am currently working on the `R` `packages` mentioned above and I use my [package-downloads repository](https://github.com/spsanderson/package-downloads) to keep track of the stats of those packages. I'm looking to collaborate on all or any of them and for all of my packages [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+I am currently working on the `R` `packages` mentioned above and I use my [package-downloads repository](https://github.com/spsanderson/package-downloads) to keep track of the stats of those packages. I'm looking to collaborate on all or any of them and pull requests are welcome!
 
 I can be reached at spsanderson at gmail.com or via my [LinkedIn page](https://www.linkedin.com/in/spsanderson/)
 
