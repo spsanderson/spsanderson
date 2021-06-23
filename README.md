@@ -67,3 +67,5 @@ Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.c
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
+
+![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true)
