@@ -22,7 +22,7 @@ about_me <- list(
   occupation    = "Data Scientist/IT Manager",
   employer      = "Long Island Community Hospital",
   fav_prog_lang = "R",
-  my_r_packages = c("healthyverse", "healthyR", "healthyR.data","healthyR.ts"),
+  my_r_packages = c("healthyverse", "healthyR", "healthyR.data","healthyR.ts","healthyR.ai"),
   website       = "https://www.spsanderson.com/"
 )
 ```
@@ -44,6 +44,15 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 ![](https://cranlogs.r-pkg.org/badges/grand-total/healthyR.ts)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<!-- badges: end -->
+
+{healthyR.ai}
+<!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR.ai)](https://cran.r-project.org/package=healthyR.ai)
+![](http://cranlogs.r-pkg.org/badges/healthyR.ai)
+![](http://cranlogs.r-pkg.org/badges/grand-total/healthyR.ai)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
 
 {healthyR.data}
