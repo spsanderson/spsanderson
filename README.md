@@ -74,3 +74,5 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 <!-- badges: end -->
 
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&theme=blue-green)
