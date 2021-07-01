@@ -77,5 +77,5 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true)
 
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex,jupyternotebook&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex,ipynb&theme=blue-green)
 
