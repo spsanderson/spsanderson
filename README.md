@@ -73,9 +73,6 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
 
-
-
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 ## 1. GitHub Stats
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true)
 
