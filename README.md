@@ -22,6 +22,12 @@ about_me <- list(
   occupation    = "Data Scientist/IT Manager",
   employer      = "Long Island Community Hospital",
   fav_prog_lang = "R",
+  lang_prof     = tibble(
+                  ~lang, ~prof
+                  SQL, A,
+                  R, A,
+                  Python, C+
+                  )
   my_r_packages = c("healthyverse", "healthyR", "healthyR.data", "healthyR.ts", "healthyR.ai"),
   website       = "https://www.spsanderson.com/"
 )
