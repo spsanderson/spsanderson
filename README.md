@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/spsanderson/healthyverse/main/man/figures/test2.png"    width = "19.6%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"      width = "19.6%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"   width = "19.6%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png" width = "19.6%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"   width = "19.6%" align = "center"/></a>
+
+### Hi there, I'm Steve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **spsanderson/spsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +33,11 @@ about_me <- list(
   website       = "https://www.spsanderson.com/"
 )
 ```
+
+🔗 &nbsp;**I am also on:**
+<p align="left">
+<a href="https://www.linkedin.com/in/spsanderson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spsanderson" height="30" width="40" /></a>
+
 I am currently working on the `R` `packages` mentioned above and I use my [package-downloads repository](https://github.com/spsanderson/package-downloads) to keep track of the stats of those packages. I'm looking to collaborate on all or any of them and pull requests are welcome! I can be reached at spsanderson at gmail.com or via my [LinkedIn page](https://www.linkedin.com/in/spsanderson/). Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.com)
 
 {healthyR}
@@ -74,9 +85,9 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
 
-## 1. GitHub Stats
+## GitHub Stats
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true)
 
-## 2. Most Used Languages
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex&theme=blue-green)
 
