@@ -6,8 +6,6 @@
 
 ### Hi there, I'm Steve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Profile Views](https://api.tricked.pro/badge?user=spsanderson)](https://api.tricked.pro/badge?user=spsanderson)
-
 <!--
 **spsanderson/spsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
