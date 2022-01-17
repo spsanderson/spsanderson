@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"   width = "19.6%" align = "center"/></a> 
 <img src="https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png" width = "19.6%" align = "center"/></a> 
 <img src="https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"   width = "19.6%" align = "center"/></a>
+<img src="https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png" width = "19.6%" align = "center"/></a>
 
 ### Hi there, I'm Steve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
