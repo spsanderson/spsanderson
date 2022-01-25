@@ -100,8 +100,9 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 ## GitHub Stats
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true&theme=onedark)
 
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex&theme=onedark)
-
+  
 ## Extended Stats
 ![Metrics](https://metrics.lecoq.io/spsanderson?template=classic&config.timezone=Europe%2FBerlin)
+  
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex&theme=onedark)
