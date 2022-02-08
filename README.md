@@ -97,6 +97,18 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
   
+<!-- r-universe badges: start -->
+[![:name status badge](https://spsanderson.r-universe.dev/badges/:name)](https://spsanderson.r-universe.dev)
+[![:registry status badge](https://spsanderson.r-universe.dev/badges/:registry)](https://spsanderson.r-universe.dev)
+[![:total status badge](https://spsanderson.r-universe.dev/badges/:total)](https://spsanderson.r-universe.dev)
+[![TidyDensity status badge](https://spsanderson.r-universe.dev/badges/TidyDensity)](https://spsanderson.r-universe.dev)
+[![healthyR.data status badge](https://spsanderson.r-universe.dev/badges/healthyR.data)](https://spsanderson.r-universe.dev)
+[![healthyR.ai status badge](https://spsanderson.r-universe.dev/badges/healthyR.ai)](https://spsanderson.r-universe.dev)
+[![healthyR.ts status badge](https://spsanderson.r-universe.dev/badges/healthyR.ts)](https://spsanderson.r-universe.dev)
+[![healthyR status badge](https://spsanderson.r-universe.dev/badges/healthyR)](https://spsanderson.r-universe.dev)
+[![healthyverse status badge](https://spsanderson.r-universe.dev/badges/healthyverse)](https://spsanderson.r-universe.dev)
+<!-- r-universe badges: end -->
+  
 ## GitHub Stats
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true&theme=onedark)
 
