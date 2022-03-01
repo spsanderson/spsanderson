@@ -32,6 +32,8 @@ about_me <- list(
   languages     = c("R", "SQL", "Python (working on it)")
   my_r_packages = c("healthyverse", "healthyR", "healthyR.data", "healthyR.ts", "healthyR.ai"
                     "TidyDensity"),
+  organizations = c(https://github.com/Koffi-Fredysessie)
+  org_pkgs      = c("BRVM")
   website       = "https://www.spsanderson.com/"
 )
 ```
