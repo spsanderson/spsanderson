@@ -90,13 +90,13 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <!-- badges: end -->
   
- {TidyDensity}
-  <!-- badges: start -->
+{TidyDensity}
+<!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/TidyDensity)](https://cran.r-project.org/package=TidyDensity)
-![](http://cranlogs.r-pkg.org/badges/TidyDensity)
-![](http://cranlogs.r-pkg.org/badges/grand-total/TidyDensity)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![](https://cranlogs.r-pkg.org/badges/TidyDensity)
+![](https://cranlogs.r-pkg.org/badges/grand-total/TidyDensity)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
   
 {The 'spsanderson' universe} [Click Here!](https://spsanderson.r-universe.dev/ui#builds)
