@@ -48,6 +48,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {healthyR}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR)](https://cran.r-project.org/package=healthyR)
+[![healthyR status badge](https://spsanderson.r-universe.dev/badges/healthyR)](https://spsanderson.r-universe.dev)
 ![](https://cranlogs.r-pkg.org/badges/healthyR)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/healthyR)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
@@ -57,6 +58,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {healthyR.ts}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR.ts)](https://cran.r-project.org/package=healthyR.ts)
+[![healthyR.ts status badge](https://spsanderson.r-universe.dev/badges/healthyR.ts)](https://spsanderson.r-universe.dev)
 ![](https://cranlogs.r-pkg.org/badges/healthyR.ts)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/healthyR.ts)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
@@ -66,6 +68,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {healthyR.ai}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR.ai)](https://cran.r-project.org/package=healthyR.ai)
+[![healthyR.ai status badge](https://spsanderson.r-universe.dev/badges/healthyR.ai)](https://spsanderson.r-universe.dev)
 ![](http://cranlogs.r-pkg.org/badges/healthyR.ai)
 ![](http://cranlogs.r-pkg.org/badges/grand-total/healthyR.ai)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
@@ -75,6 +78,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {healthyR.data}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyR.data)](https://cran.r-project.org/package=healthyR.data)
+[![healthyR.data status badge](https://spsanderson.r-universe.dev/badges/healthyR.data)](https://spsanderson.r-universe.dev)
 ![](http://cranlogs.r-pkg.org/badges/healthyR.data)
 ![](http://cranlogs.r-pkg.org/badges/grand-total/healthyR.data)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
@@ -84,6 +88,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {healthyverse}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/healthyverse)](https://cran.r-project.org/package=healthyverse)
+[![healthyverse status badge](https://spsanderson.r-universe.dev/badges/healthyverse)](https://spsanderson.r-universe.dev)
 ![](http://cranlogs.r-pkg.org/badges/healthyverse)
 ![](http://cranlogs.r-pkg.org/badges/grand-total/healthyverse)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
@@ -93,6 +98,7 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 {TidyDensity}
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/TidyDensity)](https://cran.r-project.org/package=TidyDensity)
+[![TidyDensity status badge](https://spsanderson.r-universe.dev/badges/TidyDensity)](https://spsanderson.r-universe.dev)
 ![](https://cranlogs.r-pkg.org/badges/TidyDensity)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/TidyDensity)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
@@ -104,12 +110,6 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 [![:name status badge](https://spsanderson.r-universe.dev/badges/:name)](https://spsanderson.r-universe.dev)
 [![:registry status badge](https://spsanderson.r-universe.dev/badges/:registry)](https://spsanderson.r-universe.dev)
 [![:total status badge](https://spsanderson.r-universe.dev/badges/:total)](https://spsanderson.r-universe.dev)
-[![TidyDensity status badge](https://spsanderson.r-universe.dev/badges/TidyDensity)](https://spsanderson.r-universe.dev)
-[![healthyR.data status badge](https://spsanderson.r-universe.dev/badges/healthyR.data)](https://spsanderson.r-universe.dev)
-[![healthyR.ai status badge](https://spsanderson.r-universe.dev/badges/healthyR.ai)](https://spsanderson.r-universe.dev)
-[![healthyR.ts status badge](https://spsanderson.r-universe.dev/badges/healthyR.ts)](https://spsanderson.r-universe.dev)
-[![healthyR status badge](https://spsanderson.r-universe.dev/badges/healthyR)](https://spsanderson.r-universe.dev)
-[![healthyverse status badge](https://spsanderson.r-universe.dev/badges/healthyverse)](https://spsanderson.r-universe.dev)
 <!-- r-universe badges: end -->
   
 ## GitHub Stats
