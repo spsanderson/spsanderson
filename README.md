@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 ```
 about_me <- list(
-  name          = "Sanderson",
-  first_name    = "Steven",
-  occupation    = "Data Scientist/IT Manager",
-  employer      = "Long Island Community Hospital",
-  fav_prog_lang = "R",
-  languages     = c("R", "SQL", "Python (working on it)")
-  my_r_packages = c("healthyverse", "healthyR", "healthyR.data", "healthyR.ts", "healthyR.ai"
-                    "TidyDensity"),
-  organizations = c(https://github.com/Koffi-Fredysessie)
-  org_pkgs      = c("BRVM")
-  website       = "https://www.spsanderson.com/"
+  name            = "Sanderson"
+  , first_name    = "Steven"
+  , occupation    = "Data Scientist/IT Manager"
+  , employer      = "NYU Langone at Long Island Community Hospital"
+  , fav_prog_lang = "R"
+  , languages     = c("R", "SQL", "Python (working on it)")
+  , my_r_packages = c("healthyverse", "healthyR", "healthyR.data", 
+                    "healthyR.ts", "healthyR.ai", "TidyDensity")
+  , organizations = c(https://github.com/Koffi-Fredysessie)
+  , org_pkgs      = c("BRVM")
+  , website       = "https://www.spsanderson.com/"
 )
 ```
 
