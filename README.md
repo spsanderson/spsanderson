@@ -1,11 +1,14 @@
-<img src="https://raw.githubusercontent.com/spsanderson/healthyverse/main/man/figures/test2.png"    width = "19.6%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"      width = "19.6%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"   width = "19.6%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png" width = "19.6%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"   width = "19.6%" align = "center"/></a>
-<img src="https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png" width = "19.6%" align = "center"/></a>
+<img src="https://raw.githubusercontent.com/spsanderson/healthyverse/main/man/figures/test2.png"    width = "16%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"      width = "16%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"   width = "16%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png" width = "16%" align = "center"/></a> 
+<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"   width = "16%" align = "center"/></a>
+<img src="https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png" width = "16%" align = "center"/></a>
 
-### Hi there, I'm Steve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Steve 
+<br>
+<br>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **spsanderson/spsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +24,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I spend a lot of time in R 
+I use these: 
+<p align="left">  
+  <a href="https://github.com/tidyverse/dplyr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png"     width="50px"/></a>
+  <a href="https://github.com/tidyverse/ggplot2"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png"   width="50px"/></a>
+  <a href="https://github.com/tidyverse/stringr"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/stringr.png"   width="50px"/></a>
+  <a href="https://github.com/tidyverse/purrr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/purrr.png"     width="50px"/></a>
+  <a href="https://github.com/tidyverse/glue"      ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/glue.png"      width="50px"/></a>
+  <a href="https://github.com/tidyverse/lubridate" ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/lubridate.png" width="50px"/></a>
+  <a href="https://github.com/rstudio/rmarkdown"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
+  <a href="https://github.com/yihui/knitr"         ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png"     width="50px"/></a>
+  <a href="https://github.com/rstudio/shiny"       ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png"     width="50px"/></a>  
+  <a href="https://github.com/rstudio/pkgdown"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/pkgdown.png"   width="50px"/></a>
+  <a href="https://github.com/r-lib/roxygen2"      ><img src="https://raw.githubusercontent.com/r-lib/roxygen2/master/man/figures/logo.png"    width="50px"/></a>
+</p>
+
+I maintain these: 
+<p align="left">
+    <a href="https://github.com/spsanderson/healthyverse"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyverse/master/man/figures/test2.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/healthyR"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"  width="50px"/></a>
+  <a href="https://github.com/spsanderson/healthyR.ts"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"  width="50px"/></a>
+  <a href="https://github.com/spsanderson/healthyR.data"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/healthyR.ai"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/TidyDensity"   ><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png"     width="50px"/></a>
+</p>
 
 ```
 about_me <- list(
