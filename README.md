@@ -33,6 +33,9 @@ I maintain these:
   <a href="https://github.com/spsanderson/TidyDensity"   ><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png"     width="50px"/></a>
 </p>
 
+I have co-authored these:
+<p align="left"><a href="https://github.com/Koffi-Fredysessie/BRVM"><img src = "https://raw.githubusercontent.com/Koffi-Fredysessie/BRVM/main/brvm-logo.png" width="50px"/></a>
+
 ```
 about_me <- list(
   name            = "Sanderson"
