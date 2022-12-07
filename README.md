@@ -1,10 +1,3 @@
-<img src="https://raw.githubusercontent.com/spsanderson/healthyverse/main/man/figures/test2.png"    width = "16%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"      width = "16%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"   width = "16%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png" width = "16%" align = "center"/></a> 
-<img src="https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"   width = "16%" align = "center"/></a>
-<img src="https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png" width = "16%" align = "center"/></a>
-
 ### Hi there, I'm Steve I spend a lot of time in R 
 I use these: 
 <p align="left">  
@@ -31,6 +24,7 @@ I maintain these:
   <a href="https://github.com/spsanderson/healthyR.data"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR.ai"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/test3.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/TidyDensity"   ><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/tidyaml"   ><img src= "https://raw.githubusercontent.com/spsanderson/tidyaml/master/man/figures/logo.png"     width="50px"/></a>
 </p>
 
 I have co-authored these:
@@ -45,10 +39,12 @@ about_me <- list(
   , fav_prog_lang = "R"
   , languages     = c("R", "SQL", "Python (working on it)")
   , my_r_packages = c("healthyverse", "healthyR", "healthyR.data", 
-                    "healthyR.ts", "healthyR.ai", "TidyDensity")
+                    "healthyR.ts", "healthyR.ai", "TidyDensity",
+                    "tidyaml")
   , organizations = c(https://github.com/Koffi-Fredysessie)
   , org_pkgs      = c("BRVM")
   , website       = "https://www.spsanderson.com/"
+  , blog          = "https://www.spsanderson.com/steveondata/"
   , twitter       = "https://www.twitter.com/steveondata/"
   , mastadon      = "https://mstdn.social/@stevensanderson"
 )
@@ -120,6 +116,15 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 ![](https://cranlogs.r-pkg.org/badges/TidyDensity)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/TidyDensity)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+<!-- badges: end -->
+  
+{tidyaml}
+  <!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/tidyaml)](https://cran.r-project.org/package=tidyaml)
+![](https://cranlogs.r-pkg.org/badges/tidyaml)
+![](https://cranlogs.r-pkg.org/badges/grand-total/tidyaml)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
   
