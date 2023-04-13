@@ -34,7 +34,7 @@ I have co-authored these:
 about_me <- list(
   name            = "Sanderson"
   , first_name    = "Steven"
-  , occupation    = "Data Scientist/IT Manager"
+  , occupation    = "Manager of Applications"
   , employer      = "Stony Brook Medicine"
   , fav_prog_lang = "R"
   , languages     = c("R", "SQL", "Python (working on it)")
