@@ -35,7 +35,7 @@ about_me <- list(
   name            = "Sanderson"
   , first_name    = "Steven"
   , occupation    = "Data Scientist/IT Manager"
-  , employer      = "NYU Langone at Long Island Community Hospital"
+  , employer      = "Stony Brook Medicine"
   , fav_prog_lang = "R"
   , languages     = c("R", "SQL", "Python (working on it)")
   , my_r_packages = c("healthyverse", "healthyR", "healthyR.data", 
