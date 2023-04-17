@@ -42,6 +42,7 @@ about_me <- list(
                     "healthyR.ts", "healthyR.ai", "TidyDensity",
                     "tidyAML")
   , organizations = c(https://github.com/Koffi-Fredysessie)
+  , orcid         = https://orcid.org/my-orcid?orcid=0009-0006-7661-8247
   , org_pkgs      = c("BRVM")
   , website       = "https://www.spsanderson.com/"
   , blog          = "https://www.spsanderson.com/steveondata/"
