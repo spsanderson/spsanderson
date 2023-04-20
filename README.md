@@ -18,7 +18,7 @@ I use these:
 
 I maintain these: 
 <p align="left">
-    <a href="https://github.com/spsanderson/healthyverse"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyverse/master/man/figures/test2.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/healthyverse"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyverse/master/man/figures/test2.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/test7.png"  width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR.ts"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/test1.png"  width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR.data"   ><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/test4.png"     width="50px"/></a>
