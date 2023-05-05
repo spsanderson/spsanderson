@@ -23,7 +23,7 @@ I maintain these:
   <a href="https://github.com/spsanderson/healthyR.ts"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ts/master/man/figures/logo.png"  width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR.data"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.data/master/man/figures/logo.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR.ai"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/logo.png"     width="50px"/></a>
-  <a href="https://github.com/spsanderson/TidyDensity"><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/tidy_density_logo.png"     width="50px"/></a>
+  <a href="https://github.com/spsanderson/TidyDensity"><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/logo.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/tidyAML"><img src= "https://raw.githubusercontent.com/spsanderson/tidyAML/master/man/figures/logo.png"     width="50px"/></a>
 </p>
 
