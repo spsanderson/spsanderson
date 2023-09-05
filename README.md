@@ -1,4 +1,4 @@
-### Hi there, I'm Steve I spend a lot of time in R 
+### Hi there, I'm Steve I spend a lot of time in R and here is my github [resume](https://resume.github.io/?spsanderson) 
 I use these: 
 <p align="left">  
   <a href="https://github.com/tidyverse/dplyr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png"     width="50px"/></a>
