@@ -46,7 +46,6 @@ about_me <- list(
   , org_pkgs      = c("BRVM")
   , website       = "https://www.spsanderson.com/"
   , blog          = "https://www.spsanderson.com/steveondata/"
-  , twitter       = "https://www.twitter.com/steveondata/"
   , mastadon      = "https://mstdn.social/@stevensanderson"
 )
 ```
