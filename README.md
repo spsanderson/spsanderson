@@ -37,13 +37,13 @@ about_me <- list(
   , occupation    = "Manager of Applications"
   , employer      = "Stony Brook Medicine"
   , fav_prog_lang = "R"
-  , languages     = c("R", "SQL", "Python (working on it)")
-  , my_r_packages = c("healthyverse", "healthyR", "healthyR.data", 
+  , languages     = list("R", "SQL", "Python (working on it)")
+  , my_r_packages = list("healthyverse", "healthyR", "healthyR.data", 
                     "healthyR.ts", "healthyR.ai", "TidyDensity",
                     "tidyAML")
-  , organizations = c(https://github.com/Koffi-Fredysessie)
-  , orcid         = https://orcid.org/my-orcid?orcid=0009-0006-7661-8247
-  , org_pkgs      = c("BRVM")
+  , organizations = list("https://github.com/Koffi-Fredysessie")
+  , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
+  , org_pkgs      = list("BRVM")
   , website       = "https://www.spsanderson.com/"
   , blog          = "https://www.spsanderson.com/steveondata/"
   , mastadon      = "https://mstdn.social/@stevensanderson"
