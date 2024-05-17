@@ -16,7 +16,7 @@ I use these:
   <a href="https://github.com/business-science/modeltime"><img src="https://raw.githubusercontent.com/business-science/modeltime/master/man/figures/logo.png" width="50px"/></a>
 </p>
 
-I maintain these: 
+I authored and maintain these: 
 <p align="left">
   <a href="https://github.com/spsanderson/healthyverse"><img src= "https://raw.githubusercontent.com/spsanderson/healthyverse/master/man/figures/logo.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/healthyR"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR/master/man/figures/logo.png"  width="50px"/></a>
