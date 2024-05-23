@@ -12,6 +12,7 @@ I use these:
   <a href="https://github.com/rstudio/shiny"       ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png"     width="50px"/></a>  
   <a href="https://github.com/rstudio/pkgdown"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/pkgdown.png"   width="50px"/></a>
   <a href="https://github.com/r-lib/roxygen2"      ><img src="https://raw.githubusercontent.com/r-lib/roxygen2/master/man/figures/logo.png"    width="50px"/></a>
+  <a href="https://github.co/tidyverse/httr2"      ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/httr2.png"     width="50px"/></a>
   <a href="https://github.com/business-science/timetk"><img src="https://raw.githubusercontent.com/business-science/timetk/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/business-science/modeltime"><img src="https://raw.githubusercontent.com/business-science/modeltime/master/man/figures/logo.png" width="50px"/></a>
 </p>
