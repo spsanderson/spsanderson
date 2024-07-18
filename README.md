@@ -141,11 +141,8 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
   
 ## GitHub Stats
 ![Steven P. Sanderson II, MPH](https://github-readme-stats.vercel.app/api?username=spsanderson&show_icons=true&theme=onedark)
-
   
 ## Extended Stats
-![Metrics](https://metrics.lecoq.io/spsanderson?template=classic)
-
 Below are from [https://github.com/jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 ![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/languages.svg#gh-dark-mode-only)
