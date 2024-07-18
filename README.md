@@ -144,6 +144,7 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
   
 ## Extended Stats
 Below are from [https://github.com/jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+
 ![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
