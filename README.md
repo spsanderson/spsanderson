@@ -42,7 +42,7 @@ about_me <- list(
   , languages     = list("R", "SQL", "Python (working on it)")
   , my_r_packages = list("healthyverse", "healthyR", "healthyR.data", 
                     "healthyR.ts", "healthyR.ai", "TidyDensity",
-                    "tidyAML")
+                    "tidyAML","RandomWalker")
   , organizations = list("https://github.com/Koffi-Fredysessie")
   , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
   , org_pkgs      = list("BRVM")
