@@ -26,7 +26,7 @@ I authored and maintain these:
   <a href="https://github.com/spsanderson/healthyR.ai"><img src= "https://raw.githubusercontent.com/spsanderson/healthyR.ai/master/man/figures/logo.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/TidyDensity"><img src= "https://raw.githubusercontent.com/spsanderson/TidyDensity/master/man/figures/logo.png"     width="50px"/></a>
   <a href="https://github.com/spsanderson/tidyAML"><img src= "https://raw.githubusercontent.com/spsanderson/tidyAML/master/man/figures/logo.png"     width="50px"/></a>
-  <a href="https://github.com/spsanderson/RandomWalker"><img src="https://raw.githubusercontent.com/spsanderson/RandomWalker/master/man/figures/logo.png" width="50px"/></a>a>
+  <a href="https://github.com/spsanderson/RandomWalker"><img src= "https://raw.githubusercontent.com/spsanderson/RandomWalker/master/man/figures/logo.png" width="50px"/></a>
 </p>
 
 I have co-authored these:
