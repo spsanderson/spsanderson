@@ -124,11 +124,21 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
 <!-- badges: end -->
   
 {tidyAML}
-  <!-- badges: start -->
+<!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/tidyAML)](https://cran.r-project.org/package=tidyAML)
 [![tidyAML status badge](https://spsanderson.r-universe.dev/badges/tidyAML)](https://spsanderson.r-universe.dev/tidyAML)
 ![](https://cranlogs.r-pkg.org/badges/tidyAML)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/tidyAML)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+<!-- badges: end -->
+
+{RandomWalker}
+<!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/RandomWalker)](https://cran.r-project.org/package=RandomWalker)
+[![tidyAML status badge](https://spsanderson.r-universe.dev/badges/RandomWalker)](https://spsanderson.r-universe.dev/RandomWalker)
+![](https://cranlogs.r-pkg.org/badges/RandomWalker)
+![](https://cranlogs.r-pkg.org/badges/grand-total/RandomWalker)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
