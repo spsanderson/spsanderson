@@ -157,7 +157,7 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
 Below are from [https://github.com/jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 
 ![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/spsanderson/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
   
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spsanderson&hide=html,tex&theme=onedark)
