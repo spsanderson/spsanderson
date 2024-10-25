@@ -32,17 +32,22 @@ I authored and maintain these:
 I have co-authored these:
 <p align="left"><a href="https://github.com/Koffi-Fredysessie/BRVM"><img src = "https://raw.githubusercontent.com/Koffi-Fredysessie/BRVM/main/brvm-logo.png" width="50px"/></a>
 
-```
+```r
 about_me <- list(
   name            = "Sanderson"
   , first_name    = "Steven"
   , occupation    = "Manager of Applications"
   , employer      = "Stony Brook Medicine"
   , fav_prog_lang = "R"
-  , languages     = list("R", "SQL", "Python (working on it)")
+  , languages     = list(
+                        working_knowledge = list("R", "SQL"),
+                        actively_learning = list("C"),
+                        not_acitvely_learning = list("Python")
+                        )
+  , os            = list("Windows", "Linux (Actively Learning)")
   , my_r_packages = list("healthyverse", "healthyR", "healthyR.data", 
-                    "healthyR.ts", "healthyR.ai", "TidyDensity",
-                    "tidyAML","RandomWalker")
+                         "healthyR.ts", "healthyR.ai", "TidyDensity",
+                         "tidyAML","RandomWalker")
   , organizations = list("https://github.com/Koffi-Fredysessie")
   , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
   , org_pkgs      = list("BRVM")
