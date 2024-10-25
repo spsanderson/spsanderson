@@ -45,9 +45,10 @@ about_me <- list(
                         not_acitvely_learning = list("Python")
                       )
   , os            = list("Windows", "Linux (Actively Learning)")
-  , my_r_packages = list("healthyverse", "healthyR", "healthyR.data", 
-                         "healthyR.ts", "healthyR.ai", "TidyDensity",
-                         "tidyAML","RandomWalker"
+  , my_r_packages = list(
+                        "healthyverse", "healthyR", "healthyR.data", 
+                        "healthyR.ts", "healthyR.ai", "TidyDensity",
+                        "tidyAML","RandomWalker"
                       )
   , organizations = list("https://github.com/Koffi-Fredysessie")
   , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
