@@ -43,17 +43,21 @@ about_me <- list(
                         working_knowledge = list("R", "SQL"),
                         actively_learning = list("C"),
                         not_acitvely_learning = list("Python")
-                        )
+                      )
   , os            = list("Windows", "Linux (Actively Learning)")
   , my_r_packages = list("healthyverse", "healthyR", "healthyR.data", 
                          "healthyR.ts", "healthyR.ai", "TidyDensity",
-                         "tidyAML","RandomWalker")
+                         "tidyAML","RandomWalker"
+                      )
   , organizations = list("https://github.com/Koffi-Fredysessie")
   , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
   , org_pkgs      = list("BRVM")
-  , website       = "https://www.spsanderson.com/"
-  , blog          = "https://www.spsanderson.com/steveondata/"
-  , mastadon      = "https://mstdn.social/@stevensanderson"
+  , urls          = list(
+                        website       = "https://www.spsanderson.com/",
+                        blog          = "https://www.spsanderson.com/steveondata/",
+                        mastadon      = "https://mstdn.social/@stevensanderson",
+                        rstats        = "https://rstats.me/@spsanderson"
+                      )
 )
 ```
 
