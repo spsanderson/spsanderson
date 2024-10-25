@@ -40,8 +40,8 @@ about_me <- list(
   , employer      = "Stony Brook Medicine"
   , fav_prog_lang = "R"
   , languages     = list(
-                        working_knowledge = list("R", "SQL"),
-                        actively_learning = list("C"),
+                        working_knowledge     = list("R", "SQL"),
+                        actively_learning     = list("C"),
                         not_acitvely_learning = list("Python")
                       )
   , os            = list("Windows", "Linux (Actively Learning)")
@@ -53,10 +53,10 @@ about_me <- list(
   , orcid         = list("https://orcid.org/my-orcid?orcid=0009-0006-7661-8247")
   , org_pkgs      = list("BRVM")
   , urls          = list(
-                        website       = "https://www.spsanderson.com/",
-                        blog          = "https://www.spsanderson.com/steveondata/",
-                        mastadon      = "https://mstdn.social/@stevensanderson",
-                        rstats        = "https://rstats.me/@spsanderson"
+                        website  = "https://www.spsanderson.com/",
+                        blog     = "https://www.spsanderson.com/steveondata/",
+                        mastadon = "https://mstdn.social/@stevensanderson",
+                        rstats   = "https://rstats.me/@spsanderson"
                       )
 )
 ```
