@@ -41,8 +41,7 @@ about_me <- list(
   , fav_prog_lang = "R"
   , languages     = list(
                         working_knowledge     = list("R", "SQL"),
-                        actively_learning     = list("C"),
-                        not_acitvely_learning = list("Python")
+                        actively_learning     = list("C", "Python")
                       )
   , os            = list("Windows", "Linux (Actively Learning)")
   , my_r_packages = list(
