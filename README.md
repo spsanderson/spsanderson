@@ -151,7 +151,8 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
 [![tidyAML status badge](https://spsanderson.r-universe.dev/badges/RandomWalker)](https://spsanderson.r-universe.dev/RandomWalker)
 ![](https://cranlogs.r-pkg.org/badges/RandomWalker)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/RandomWalker)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html##experimental)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html##stable)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 <!-- badges: end -->
   
