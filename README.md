@@ -74,6 +74,26 @@ I am currently working on the `R` `packages` mentioned above and I use my [packa
 
 I have also written a book with my co-author [David Kun](https://www.linkedin.com/in/davidkun/) entitled: ["Extending Excel with Python and R"](https://packt.link/oTyZJ)
 
+---
+
+### 🌐 Connect with Me
+
+[🌍 Website](https://www.spsanderson.com/)  
+[📚 Blog](https://www.spsanderson.com/steveondata/)  
+[🐘 Mastodon](https://mstdn.social/@stevensanderson)  
+[🐦 rstats.me](https://rstats.me/@spsanderson)  
+[🌌 Bluesky](https://bsky.app/profile/spsanderson.com)  
+[✈️ Telegram](https://t.me/steveondata)  
+[💼 LinkedIn](https://www.linkedin.com/in/spsanderson/)
+
+---
+
+### ⚡ Fun Fact
+
+> I keep a large 79TB Plex server at home. Media organization is a hobby and an art!
+
+---
+
 ## Package Stats
 {healthyR}
 <!-- badges: start -->
