@@ -80,9 +80,6 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
 
 [🌍 Website](https://www.spsanderson.com/)  
 [📚 Blog](https://www.spsanderson.com/steveondata/)  
-[🐘 Mastodon](https://mstdn.social/@stevensanderson)  
-[🐦 rstats.me](https://rstats.me/@spsanderson)  
-[🌌 Bluesky](https://bsky.app/profile/spsanderson.com)  
 [✈️ Telegram](https://t.me/steveondata)  
 [💼 LinkedIn](https://www.linkedin.com/in/spsanderson/)
 
