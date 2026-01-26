@@ -67,8 +67,6 @@ about_me <- list(
 🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/spsanderson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spsanderson" height="30" width="40" /></a>
-  
-<a rel="me" href="https://mstdn.social/@stevensanderson">Mastodon</a>
 
 I am currently working on the `R` `packages` mentioned above and I use my [package-downloads repository](https://github.com/spsanderson/package-downloads) to keep track of the stats of those packages. I'm looking to collaborate on all or any of them and pull requests are welcome! I can be reached at spsanderson at gmail.com or via my [LinkedIn page](https://www.linkedin.com/in/spsanderson/). Here is a link to my personal site: [Steve's Homepage](https://www.spsanderson.com)
 
@@ -80,7 +78,6 @@ I have also written a book with my co-author [David Kun](https://www.linkedin.co
 
 [🌍 Website](https://www.spsanderson.com/)  
 [📚 Blog](https://www.spsanderson.com/steveondata/)  
-[✈️ Telegram](https://t.me/steveondata)  
 [💼 LinkedIn](https://www.linkedin.com/in/spsanderson/)
 
 ---
