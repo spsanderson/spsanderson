@@ -55,9 +55,6 @@ about_me <- list(
   , urls          = list(
                         website  = "https://www.spsanderson.com/",
                         blog     = "https://www.spsanderson.com/steveondata/",
-                        mastadon = "https://mstdn.social/@stevensanderson",
-                        rstats   = "https://rstats.me/@spsanderson",
-                        bluesky  = "https://bsky.app/profile/spsanderson.com",
                         telegram = "https://t.me/steveondata",
                         linkedin = "https://www.linkedin.com/in/spsanderson/"
                       )
